@@ -24,3 +24,8 @@ Tecnologias utilizadas
 - CSS3 (incluindo animações e efeitos visuais)
 - JavaScript puro
 - Formato `.lrc` embutido diretamente no script para sincronização
+
+## Como acessar
+
+O projeto está disponível em GitHub Pages:  
+[**Clique aqui para visualizar o letreiro**](https://dorvalluz.github.io/Livres-para-viver/)
